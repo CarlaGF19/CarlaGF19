@@ -18,6 +18,7 @@
          alt="Hack The Box" />
   </a>
 </p>
+
 - 👩‍💻 I'm **Carla Acha**, a Systems Engineering student with a strong interest in technology and continuous learning.
 - 🛡️ Focused on **Cybersecurity (Blue Team)** and **Cloud Security**, with interest in system hardening, monitoring, and defensive security.
 - ☁️ Currently learning **cloud fundamentals and security concepts**, including identity, access, and secure deployments.
@@ -25,6 +26,7 @@
 - 🤖 Interested in **Artificial Intelligence and Python** for automation, analysis, and security-related solutions.
 - 💬 Feel free to ask me about cybersecurity learning paths, Linux basics, or student projects.
 - 📫 Contact: **carlita.ai19.20@gmail.com**
+  
 <table align="center">
   <tr>
     <td valign="top" width="65%" align="center">
