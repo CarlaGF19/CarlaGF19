@@ -28,10 +28,8 @@
 - 📫 Contact: **carlita.ai19.20@gmail.com**
 
 
-<h2>🧰 Tech Stack</h2>
 
 <h2>🧰 Tech Stack</h2>
-
 <p align="center" style="line-height:1.2;">
   <kbd>
     <b>Languages</b><br>
