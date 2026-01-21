@@ -96,7 +96,7 @@
   </kbd>
 </p>
 
-## 📊 My GitHub Stats
+### 📊 My GitHub Stats
 <p align="center">
   <img
      src="https://github-readme-stats.vercel.app/api?username=CarlaGF19&count_private=true&theme=transparent&hide_border=true"
@@ -111,6 +111,18 @@
   />
 </p>
 
+<details>
+<summary><b>🚀 Hackathons & Projects</b></summary>
+
+<br>
+
+| Proyecto | Tema / Etiquetas | Descripción | Enlace |
+|---------|------------------|-------------|--------|
+| 🌱 **EcoGrid** | Green Tech · IoT · Sustainability | Plataforma educativa sobre sostenibilidad y tecnología verde. | 🔗 [GitHub](https://github.com/CarlaGF19/ecogrid) |
+| 🤖 **Think AI Build Secure** | AI · Security | Reto de IA con enfoque en seguridad defensiva. | 🔗 [GitHub](https://github.com/CarlaGF19/think-ai-secure) |
+| 🛡️ **Blue Team Labs** | Cybersecurity · Blue Team · Linux | Prácticas de seguridad: logs, monitoreo y hardening en Linux. | 🔗 [GitHub](https://github.com/CarlaGF19/blue-team-labs) |
+
+</details>
 
 
 
