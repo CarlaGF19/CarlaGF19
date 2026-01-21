@@ -1,5 +1,25 @@
 
-<img src="https://komarev.com/ghpvc/?username=CarlaGF19&label=views&color=0e75b6&style=flat" alt="profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CarlaGF19&label=views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlagf19/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn" height="22" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/CarlaGF19" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+         alt="HackerRank" height="22" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackthebox.com/" target="_blank">
+    <img src="https://www.svgrepo.com/show/331760/hack-the-box.svg"
+         alt="Hack The Box" height="22" />
+  </a>
+</p>
+
 
 - 👩‍💻 I'm **Carla Acha**, a Systems Engineering student with a strong interest in technology and continuous learning.
 - 🌱 Currently building projects with **Next.js, React, TypeScript, and Python**, while learning **PostgreSQL** and **Supabase** for full-stack development.
