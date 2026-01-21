@@ -96,17 +96,33 @@
   </kbd>
 </p>
 
-## 📊 GitHub Stats
+<details>
+  <summary><b>📊 GitHub Stats (click to open)</b></summary>
+  <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlaGF19&theme=transparent&hide_border=false&count_private=true" />
-</p>
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=CarlaGF19&theme=transparent&hide_border=false&count_private=true"
+          width="100%"
+        />
+      </td>
+      <td align="center" width="50%">
+        <img
+          src="https://nirzak-streak-stats.vercel.app/?user=CarlaGF19&theme=transparent&hide_border=false"
+          width="100%"
+        />
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CarlaGF19&theme=transparent&hide_border=false" />
-</p>
+  <br/>
 
-<p align="center">
+</details>
+
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaGF19&theme=transparent&hide_border=false&layout=compact" />
 </p>
 
