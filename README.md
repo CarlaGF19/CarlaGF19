@@ -1,9 +1,15 @@
-👩‍💻 I'm **Carla Acha**, a Systems Engineering student with a strong interest in technology and continuous learning.
-🌱 I’m currently building projects with **Next.js, React, TypeScript and Python**, while learning **PostgreSQL and Supabase** for full-stack development.
-🛡️ I’m exploring **Cybersecurity (Blue Team)**, focusing on Linux, system fundamentals, monitoring, and defensive security concepts.
-🤖 I’m interested in **Artificial Intelligence**, automation, and data-driven solutions using Python.
-💬 Feel free to ask me about web development, Python, learning paths, or student projects — I’m always happy to learn and share.
-📫 Contact: **carlita.ai19.20@gmail.com**
+<h1 align="center">
+  Hola 👋 soy Carla
+  <img src="https://komarev.com/ghpvc/?username=CarlaGF19&label=views&color=0e75b6&style=flat" alt="profile views" />
+</h1>
+
+- 👩‍💻 I'm **Carla Acha**, a Systems Engineering student with a strong interest in technology and continuous learning.
+- 🌱 Currently building projects with **Next.js, React, TypeScript, and Python**, while learning **PostgreSQL** and **Supabase** for full-stack development.
+- 🛡️ Exploring **Cybersecurity (Blue Team)**, focusing on Linux, system fundamentals, monitoring, and defensive security concepts.
+- 🤖 Interested in **Artificial Intelligence**, automation, and data-driven solutions using Python.
+- 💬 Feel free to ask me about web development, Python, learning paths, or student projects — I’m always happy to learn and share.
+- 📫 Contact: **carlita.ai19.20@gmail.com**
+
 
 
 
