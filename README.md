@@ -18,18 +18,19 @@
        alt="Hack The Box" />
 </a>
 
-
-
 - 👩‍💻 I'm **Carla Acha**, a Systems Engineering student with a strong interest in technology and continuous learning.
-- 🌱 Currently building projects with **Next.js, React, TypeScript, and Python**, while learning **PostgreSQL** and **Supabase** for full-stack development.
-- 🛡️ Exploring **Cybersecurity (Blue Team)**, focusing on Linux, system fundamentals, monitoring, and defensive security concepts.
-- 🤖 Interested in **Artificial Intelligence**, automation, and data-driven solutions using Python.
-- 💬 Feel free to ask me about web development, Python, learning paths, or student projects — I’m always happy to learn and share.
+- 🛡️ Focused on **Cybersecurity (Blue Team)** and **Cloud Security**, with interest in system hardening, monitoring, and defensive security.
+- ☁️ Currently learning **cloud fundamentals and security concepts**, including identity, access, and secure deployments.
+- 🐧 Working with **Linux systems**, logs, and basic automation for security tasks.
+- 🤖 Interested in **Artificial Intelligence and Python** for automation, analysis, and security-related solutions.
+- 💬 Feel free to ask me about cybersecurity learning paths, Linux basics, or student projects.
 - 📫 Contact: **carlita.ai19.20@gmail.com**
 
 
 
-<h2>🧰 Tech Stack</h2>
+
+
+## 🧰 Tech Stack
 <p align="center" style="line-height:1.2;">
   <kbd>
     <b>Languages</b><br>
