@@ -97,34 +97,28 @@
 </p>
 
 <details>
-  <summary><b>📊 GitHub Stats (click to open)</b></summary>
+  <summary><b>📊 GitHub Stats</b></summary>
   <br/>
 
-  <table align="center">
+  <table align="center" width="100%">
     <tr>
       <td align="center" width="50%">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=CarlaGF19&theme=transparent&hide_border=false&count_private=true"
-          width="100%"
-        />
+        <img src="https://github-readme-stats.vercel.app/api?username=CarlaGF19&theme=transparent&hide_border=false&count_private=true" width="100%" />
       </td>
       <td align="center" width="50%">
-        <img
-          src="https://nirzak-streak-stats.vercel.app/?user=CarlaGF19&theme=transparent&hide_border=false"
-          width="100%"
-        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaGF19&theme=transparent&hide_border=false&layout=compact" width="100%" />
       </td>
     </tr>
   </table>
 
-  <br/>
-
 </details>
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaGF19&theme=transparent&hide_border=false&layout=compact" />
-</p>
+
+
+
+
+
 
 
 ✨ *Always learning, building and improving.*
