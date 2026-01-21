@@ -26,55 +26,52 @@
 - 🤖 Interested in **Artificial Intelligence and Python** for automation, analysis, and security-related solutions.
 - 💬 Feel free to ask me about cybersecurity learning paths, Linux basics, or student projects.
 - 📫 Contact: **carlita.ai19.20@gmail.com**
-  
-<table align="center">
+
+---
+<table align="center" width="100%">
   <tr>
-    <td valign="top" width="65%" align="center">
+    <!-- LEFT: TECH STACK -->
+    <td valign="top" width="65%" align="left">
 
-<p style="line-height:1.2;">
-  <kbd>
-    <b>Languages</b><br>
-    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  </kbd>
+      <p style="line-height:1.2;">
+        <kbd>
+          <b>Languages</b><br>
+          <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+          <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+          <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+          <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+        </kbd>
 
-  <kbd>
-    <b>Front-end</b><br>
-    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-  </kbd>
-</p>
+        <kbd>
+          <b>Front-end</b><br>
+          <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+          <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+          <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+        </kbd>
 
-<p style="line-height:1.2;">
-  <kbd>
-    <b>Blue Team</b><br>
-    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  </kbd>
-
-  <kbd>
-    <b>Tools</b><br>
-    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
-    <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  </kbd>
-</p>
+        <kbd>
+          <b>Blue Team</b><br>
+          <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+          <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+          <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+        </kbd>
+      </p>
 
     </td>
 
-    <td valign="top" width="35%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaGF19&layout=compact&theme=transparent" />
+    <!-- RIGHT: MOST USED LANGUAGES -->
+    <td valign="top" width="35%" align="right">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaGF19&layout=compact&theme=transparent"
+        width="100%"
+      />
     </td>
   </tr>
 </table>
+
 
 
 ✨ *Always learning, building and improving.*
