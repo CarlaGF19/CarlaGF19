@@ -27,10 +27,11 @@
 - 📫 Contact: **carlita.ai19.20@gmail.com**
 
 
-
-
-
-## 🧰 Tech Stack
+<table align="center">
+  <tr>
+    <!-- LEFT: TECH STACK -->
+    <td valign="top" width="65%">
+      
 <p align="center" style="line-height:1.2;">
   <kbd>
     <b>Languages</b><br>
@@ -99,6 +100,18 @@
     <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   </kbd>
 </p>
+
+    </td>
+
+    <!-- RIGHT: MOST USED LANGUAGES -->
+    <td valign="top" width="35%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaGF19&layout=compact&theme=transparent&hide_border=false" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 ## 📊 GitHub Stats
 
