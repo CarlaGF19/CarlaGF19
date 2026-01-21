@@ -1,8 +1,5 @@
-<h1 align="center">
-  Hola 👋 soy Carla
-  <img src="https://komarev.com/ghpvc/?username=CarlaGF19&label=views&color=0e75b6&style=flat" alt="profile views" />
-</h1>
 
+<img src="https://komarev.com/ghpvc/?username=CarlaGF19&label=views&color=0e75b6&style=flat" alt="profile views" />
 - 👩‍💻 I'm **Carla Acha**, a Systems Engineering student with a strong interest in technology and continuous learning.
 - 🌱 Currently building projects with **Next.js, React, TypeScript, and Python**, while learning **PostgreSQL** and **Supabase** for full-stack development.
 - 🛡️ Exploring **Cybersecurity (Blue Team)**, focusing on Linux, system fundamentals, monitoring, and defensive security concepts.
