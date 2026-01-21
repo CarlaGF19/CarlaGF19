@@ -1,5 +1,5 @@
 
-<p align="center">
+
   <img src="https://komarev.com/ghpvc/?username=CarlaGF19&label=views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -18,7 +18,6 @@
     <img src="https://www.svgrepo.com/show/331760/hack-the-box.svg"
          alt="Hack The Box" height="22" />
   </a>
-</p>
 
 
 - 👩‍💻 I'm **Carla Acha**, a Systems Engineering student with a strong interest in technology and continuous learning.
