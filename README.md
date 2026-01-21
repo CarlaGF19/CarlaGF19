@@ -96,24 +96,19 @@
   </kbd>
 </p>
 
-<details>
-  <summary><b>📊 GitHub Stats</b></summary>
-  <br/>
-
-  <table align="center" width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=CarlaGF19&theme=transparent&hide_border=false&count_private=true" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaGF19&theme=transparent&hide_border=false&layout=compact" width="100%" />
-      </td>
-    </tr>
-  </table>
-
-</details>
-
-
+<p align="center">
+  <img
+     src="https://github-readme-stats.vercel.app/api?username=CarlaGF19&count_private=true&theme=transparent&hide_border=true"
+    width="420"
+    alt="CarlaGF19 GitHub stats"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaGF19&layout=compact&langs_count=6&theme=transparent&hide_border=true&cache_seconds=1800"
+    width="360"
+    alt="CarlaGF19 Top Languages"
+  />
+</p>
 
 
 
