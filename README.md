@@ -1,5 +1,5 @@
 
-<p align="center">
+
   <img src="https://komarev.com/ghpvc/?username=CarlaGF19&label=views&color=0e75b6&style=flat"
        alt="profile views" />
   &nbsp;&nbsp;
@@ -13,11 +13,10 @@
          alt="HackerRank" height="20" />
   </a>
   &nbsp;
-  <a href="https://www.hackthebox.com/" target="_blank">
-    <img src="https://www.svgrepo.com/show/331760/hack-the-box.svg"
-         alt="Hack The Box" height="20" />
-  </a>
-</p>
+<a href="https://www.hackthebox.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=flat&logo=hackthebox&logoColor=9FEF00"
+       alt="Hack The Box" />
+</a>
 
 
 
