@@ -1,5 +1,6 @@
 
 
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=CarlaGF19&label=views&color=0e75b6&style=flat"
        alt="profile views" />
   &nbsp;&nbsp;
@@ -13,10 +14,12 @@
          alt="HackerRank" height="20" />
   </a>
   &nbsp;
-<a href="https://www.hackthebox.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=flat&logo=hackthebox&logoColor=9FEF00"
-       alt="Hack The Box" />
-</a>
+  <a href="https://www.hackthebox.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=flat&logo=hackthebox&logoColor=9FEF00"
+         alt="Hack The Box" />
+  </a>
+</p>
+
 
 - 👩‍💻 I'm **Carla Acha**, a Systems Engineering student with a strong interest in technology and continuous learning.
 - 🛡️ Focused on **Cybersecurity (Blue Team)** and **Cloud Security**, with interest in system hardening, monitoring, and defensive security.
@@ -28,7 +31,6 @@
 
 <table align="center">
   <tr>
-    <!-- LEFT COLUMN: TECH STACK -->
     <td valign="top" width="65%" align="center">
 
       <p style="line-height:1.2;">
@@ -96,14 +98,10 @@
 
     </td>
 
-    <!-- RIGHT COLUMN: MOST USED LANGUAGES -->
     <td valign="top" width="35%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaGF19&layout=compact&theme=transparent" />
     </td>
   </tr>
 </table>
-
-
-
 
 ✨ *Always learning, building and improving.*
