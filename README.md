@@ -118,9 +118,9 @@
 
 | Proyecto | Tema / Etiquetas | Descripción | Enlace |
 |---------|------------------|-------------|--------|
-| 🌱 **EcoGrid** | Green Tech · IoT · Sustainability | Plataforma educativa sobre sostenibilidad y tecnología verde. | 🔗 [GitHub](https://github.com/CarlaGF19/ecogrid) |
-| 🤖 **Think AI Build Secure** | AI · Security | Reto de IA con enfoque en seguridad defensiva. | 🔗 [GitHub](https://github.com/CarlaGF19/think-ai-secure) |
-| 🛡️ **Blue Team Labs** | Cybersecurity · Blue Team · Linux | Prácticas de seguridad: logs, monitoreo y hardening en Linux. | 🔗 [GitHub](https://github.com/CarlaGF19/blue-team-labs) |
+| 🌱 **EcoGrid** | Green Tech · IoT · Sustainability | Proccess | 🔗 [GitHub](https://github.com/CarlaGF19/ecogrid) |
+| 🤖 **Think AI Build Secure** | AI · Security | Proccess | 🔗 [GitHub](https://github.com/CarlaGF19/think-ai-secure) |
+| 🛡️ **Blue Team Labs** | Cybersecurity · Blue Team · Linux | Proccess | 🔗 [GitHub](https://github.com/CarlaGF19/blue-team-labs) |
 
 </details>
 
