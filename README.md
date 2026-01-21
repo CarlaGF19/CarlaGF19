@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=CarlaGF19&label=views&color=0e75b6&style=flat"
        alt="profile views" />
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/carlagf19/" target="_blank">
+  <a href="https://www.linkedin.com/in/carla-a-419aa9335/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="LinkedIn" height="20" />
   </a>
@@ -126,7 +126,6 @@
 
 
 
-
-
-
 ✨ *Always learning, building and improving.*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
